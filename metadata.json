@@ -1,0 +1,6 @@
+{
+  "name": "MediConnect AI Clinic",
+  "description": "A modern healthcare clinic web application featuring an AI-powered chatbot for assistance and appointment booking, built with React, TypeScript, and Tailwind CSS. Powered by MediConnect AI.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
